@@ -15,7 +15,7 @@ const algaeArticles: ArticleData[] = [
   {
     title: "Blue-Green Algae",
     subtitle: "Cyanobacteria",
-    imageSrc: "/cyno.jpg",
+    imageSrc: "/Cyno.jpg",
     summary:
       `Cynobacteria gets their name from the ancient greek word for blue. They were the first creatures on earth to produce energy from sunlight through a process called "photosynthesis". Cynobacteria has existed for over 2.1 billion years! That's a long time! Scientists believe that long ago, tree cells "swalloed" cynobacteria and turned them into "chloroplasts", which are the parts of plant cells that allows them to photosynthesize.`,
   },

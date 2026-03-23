@@ -14,7 +14,7 @@ const algaeInfo = {
 };
 
 const algaeImageSrc = {
-  "Carpet Algae": "/images/infoimage/Carpetalgae.png",
+  "Carpet Algae": "/images/infoimage/carpetalgae.png",
   "Chlorella": "/images/infoimage/Chlorella.png",
   "Spirogyra": "/images/infoimage/Spirogyra.png",
   "Bubble Algae": "/images/infoimage/Bubble Algae.png",
